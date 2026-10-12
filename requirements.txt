@@ -1,0 +1,13 @@
+numpy
+torch
+torchvision
+six
+pandas
+numpy
+tqdm
+codecarbon
+torchinfo
+properscoring
+pysteps
+scipy
+scikit-image

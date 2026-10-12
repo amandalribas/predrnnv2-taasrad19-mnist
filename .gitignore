@@ -1,0 +1,48 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+
+
+# Datasets
+data/
+datasets/**/data/
+*.npy
+*.npz
+
+# Experiment results
+results/
+runs/
+outputs/
+checkpoints/
+weights/
+
+# Logs and experiment tracking
+*.log
+logs/
+emissions.csv
+.emissions/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# IDEs and editors
+.vscode/
+.idea/
+
+# Operating system
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Environment variables and secrets
+.env
+.env.*
+
+# Temporary files
+*.tmp
+*.bak
+*.swp
